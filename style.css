@@ -1,0 +1,12 @@
+body {
+  font-family: fantasy;
+  background: linear-gradient(45deg, rgb(214, 166, 166), rgb(185, 77, 77));
+}
+
+.teaser-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
